@@ -1,4 +1,4 @@
--- sqlplus / as sysdba @/tmp/CommonDB/PreparatorySQL/2_schema_and_roles.sql
+-- sqlplus / as sysdba @/tmp/CommonDB/PreparatorySQL/2_schemas_and_roles.sql
 
 -- create common role
 CREATE ROLE MAIN_ROLE;
