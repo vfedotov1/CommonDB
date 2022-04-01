@@ -1,6 +1,6 @@
 # CommonDB
 
 ##############
-### Common ### token read 90 days - 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
+### Common ### token read 90 days - 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
 ##############
-# git clone https://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@github.com/vfedotov1/CommonDB.git
+# git clone https://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@github.com/vfedotov1/CommonDB.git
